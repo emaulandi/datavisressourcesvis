@@ -1,0 +1,82 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	padding: 25px;
+	margin: auto;
+	width: 960px;
+	}
+}
+
+p {
+	font-family: Montserrat ;
+}
+
+h1 {
+	font-family: 'Libre Franklin', Helvetica, Arial, sans-serif;
+	margin-bottom: 0;
+}
+
+h3 {
+	margin-top: 5px;
+	font-family: 'Libre Franklin', Helvetica, Arial, sans-serif;
+	color: grey;
+}
+
+.node {
+	cursor: pointer;
+}
+
+.node:hover {
+	stroke: white;
+	stroke-width: 2px;
+}
+
+.node--leaf {
+	/* 
+	fill: lightgrey;
+	*/
+}
+
+.node--leaf:hover {
+	stroke: white;
+	stroke-width: 4px;
+}
+
+.node--label {
+	font: 20px 'Libre Franklin', Helvetica, Arial, sans-serif;
+	text-anchor: middle;
+	text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+}
+
+.label--leaf {
+	font: 15px 'Libre Franklin', Helvetica, Arial, sans-serif;
+	text-anchor: middle;
+	fill: white;
+	text-shadow: 0 2px 0 grey;
+
+}
+
+.niceSmallLink {
+	background:lightgrey;
+	font-weight: bold;
+	font-size: 14px;
+	text-decoration:none;
+	color: #404040;
+	padding: 2px 5px;
+}
+
+.niceSmallLink:hover  {
+	background:#92278f;
+	color: white;
+}
+.niceSmallLink:hover {text-decoration:none;}
+
+.label--leaf,
+.node--label,
+.node--root {
+  pointer-events: none;
+}
+
+
+.footer {
+	padding-top: 30px;
+}
