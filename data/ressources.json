@@ -23,7 +23,8 @@
 			{"name": "Make Over Monday", "size": 50, "url": "http://www.makeovermonday.co.uk/"},
 			{"name": "Viz For Social Good", "size": 100, "url": "https://www.vizforsocialgood.com/"},
 			{"name": "SWD Challenge", "size": 40, "url": "http://www.storytellingwithdata.com/blog/2018/1/2/introducing-the-2018-swdchallenge"},
-			{"name": "Reddit Data is Beautiful chanllenges", "size": 80, "url": "https://www.reddit.com/r/dataisbeautiful/"}
+			{"name": "Reddit Data is Beautiful chanllenges", "size": 80, "url": "https://www.reddit.com/r/dataisbeautiful/"},
+      {"name": "Data Vis Book Club", "size": 30, "url": "https://twitter.com/datavisclub"}
 		]
 	},
 	{
@@ -33,11 +34,12 @@
 			 "name": "design",
 			 "children": [
 				  {"name": "The little of visualization design", "size": 70, "url": "http://www.visualisingdata.com/2016/03/little-visualisation-design/"},
-				  {"name": "The periodic table of viz methods", "size": 20, "url": "http://www.visual-literacy.org/periodic_table/periodic_table.html"},
+				  {"name": "Viz periodic table", "size": 20, "url": "http://www.visual-literacy.org/periodic_table/periodic_table.html"},
 				  {"name": "Dataviz catalogue", "size": 40, "url": "https://datavizcatalogue.com/"},
 				  {"name": "Goals of datavis", "size": 100, "url": "https://lisacharlotterost.github.io/2017/03/10/why-do-we-visualize-data"},
-				  {"name": "What charts ... series by E. Meeks", "size": 100, "url": "https://medium.com/@Elijah_Meeks/what-charts-say-6e31cbba2047"}
-				  
+				  {"name": "What charts ... series by E. Meeks", "size": 100, "url": "https://medium.com/@Elijah_Meeks/what-charts-say-6e31cbba2047"},
+          {"name": "Weekly charts by Datawrapper", "size": 80, "url": "https://blog.datawrapper.de/category/weekly-chart/"}
+
 			 ]
 			},
 			{
@@ -65,7 +67,7 @@
 			{"name": "Data Sketches", "size": 70, "url": "http://www.datasketch.es/"},
 			{"name": "The Pudding", "size": 70, "url": "https://pudding.cool/"},
 			{"name": "Kantar awards", "size": 100, "url": "https://informationisbeautiful.net/2017/longlist-revealed-the-kantar-information-is-beautiful-awards-2017/"}
-			
+
 		]
 	}
 	]
